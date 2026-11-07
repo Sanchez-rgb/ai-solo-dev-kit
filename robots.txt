@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sanchez-rgb.github.io/ai-solo-dev-kit/sitemap.xml
